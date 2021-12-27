@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nlzpx/script/main/Lime%20X%20(KAT%20GUI)"))();
+loadstring(game:HttpGet("https://github.com/nlzpx/script/blob/main/Lime%20X"))();
